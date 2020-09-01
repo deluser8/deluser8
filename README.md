@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+"Across the Great Wall we can reach every corner of the world." 
+
 <!--
 **deluser8/deluser8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
